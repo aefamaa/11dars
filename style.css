@@ -1,0 +1,595 @@
+.main {
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.main .overlap-wrapper {
+    background-color: #f5f5f5;
+    width: 1360px;
+    height: 2302px;
+}
+
+.main .overlap {
+    position: relative;
+    height: 2302px;
+}
+
+.main .container {
+    position: absolute;
+    width: 1280px;
+    height: 2276px;
+    top: 26px;
+    left: 40px;
+    background-color: #f5f5f5;
+    overflow: hidden;
+}
+
+.main .section {
+    position: absolute;
+    width: 1284px;
+    height: 351px;
+    top: 1736px;
+    left: 3px;
+}
+
+.main .overlap-group {
+    position: relative;
+    width: 1280px;
+    height: 351px;
+    background-color: #fffbfb;
+}
+
+.main .computer {
+    position: absolute;
+    width: 704px;
+    height: 300px;
+    top: 29px;
+    left: 12px;
+    object-fit: cover;
+}
+
+.main .education-and {
+    position: absolute;
+    top: 165px;
+    left: 757px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .NVIDIA-deep-learning {
+    position: absolute;
+    top: 21px;
+    left: 756px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #67b900;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .group {
+    position: absolute;
+    width: 235px;
+    height: 62px;
+    top: 267px;
+    left: 754px;
+}
+
+.main .div-wrapper {
+    position: relative;
+    width: 233px;
+    height: 62px;
+    background-color: #76b900;
+}
+
+.main .text-wrapper {
+    position: absolute;
+    top: 20px;
+    left: 32px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .div {
+    position: absolute;
+    width: 1282px;
+    height: 417px;
+    top: 1280px;
+    left: 0;
+}
+
+.main .card {
+    width: 294px;
+    height: 302px;
+    top: 115px;
+    position: absolute;
+    left: 0;
+}
+
+.main .overlap-group-2 {
+    position: relative;
+    width: 290px;
+    height: 302px;
+    background-color: #ffffff;
+    box-shadow: 0px 17px 27px -4px #00000040;
+}
+
+.main .text-wrapper-2 {
+    position: absolute;
+    top: 265px;
+    left: 96px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .arrow {
+    position: absolute;
+    width: 8px;
+    height: 15px;
+    top: 267px;
+    left: 172px;
+}
+
+.main .graphics-cards-and {
+    position: absolute;
+    top: 184px;
+    left: 56px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .img {
+    width: 290px;
+    height: 163px;
+    top: 0;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+}
+
+.main .overlap-group-wrapper {
+    top: 115px;
+    position: absolute;
+    width: 294px;
+    height: 302px;
+    left: 330px;
+}
+
+.main .card-2 {
+    top: 115px;
+    position: absolute;
+    width: 294px;
+    height: 302px;
+    left: 660px;
+}
+
+.main .card-3 {
+    top: 115px;
+    position: absolute;
+    width: 294px;
+    height: 302px;
+    left: 990px;
+}
+
+.main .card-4 {
+    position: absolute;
+    width: 284px;
+    height: 163px;
+    top: 1px;
+    left: 1px;
+    object-fit: cover;
+}
+
+.main .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 503px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .section-2 {
+    position: absolute;
+    width: 1282px;
+    height: 400px;
+    top: 840px;
+    left: 0;
+}
+
+.main .card-5 {
+    width: 294px;
+    height: 302px;
+    top: 98px;
+    position: absolute;
+    left: 0;
+}
+
+.main .card-6 {
+    top: 98px;
+    position: absolute;
+    width: 294px;
+    height: 302px;
+    left: 330px;
+}
+
+.main .card-7 {
+    top: 98px;
+    position: absolute;
+    width: 294px;
+    height: 302px;
+    left: 660px;
+}
+
+.main .card-8 {
+    width: 290px;
+    height: 163px;
+    top: 1px;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+}
+
+.main .card-9 {
+    top: 98px;
+    position: absolute;
+    width: 294px;
+    height: 302px;
+    left: 990px;
+}
+
+.main .p {
+    position: absolute;
+    top: 0;
+    left: 62px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .section-3 {
+    position: absolute;
+    width: 1282px;
+    height: 400px;
+    top: 400px;
+    left: 0;
+}
+
+.main .text-wrapper-4 {
+    position: absolute;
+    top: 0;
+    left: 325px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .footer {
+    position: absolute;
+    width: 1278px;
+    height: 211px;
+    top: 2091px;
+    left: 44px;
+    background-color: transparent;
+}
+
+.main .overlap-2 {
+    position: relative;
+    width: 1276px;
+    height: 211px;
+    background-color: #ffffff;
+}
+
+.main .text-wrapper-5 {
+    position: absolute;
+    width: 175px;
+    top: 109px;
+    left: 1076px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #666666;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .logo {
+    position: absolute;
+    width: 100px;
+    height: 31px;
+    top: 100px;
+    left: 25px;
+    object-fit: cover;
+}
+
+.main .header-background {
+    position: absolute;
+    width: 1360px;
+    height: 385px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+}
+
+.main .slider {
+    position: absolute;
+    width: 1282px;
+    height: 300px;
+    top: 85px;
+    left: 45px;
+}
+
+.main .overlap-3 {
+    position: relative;
+    width: 1280px;
+    height: 300px;
+    background-image: url(sli.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.main .dotes {
+    position: absolute;
+    width: 40px;
+    height: 10px;
+    top: 270px;
+    left: 620px;
+}
+
+.main .ellipse {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 1px;
+    left: 0;
+    background-color: #666666;
+    border-radius: 4px;
+}
+
+.main .ellipse-2 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 1px;
+    left: 10px;
+    background-color: #666666;
+    border-radius: 4px;
+}
+
+.main .ellipse-3 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 0;
+    left: 20px;
+    background-color: #76b900;
+    border-radius: 5px;
+}
+
+.main .ellipse-4 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 1px;
+    left: 32px;
+    background-color: #666666;
+    border-radius: 4px;
+}
+
+.main .button {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 111px;
+    height: 55px;
+    top: 215px;
+    left: 0;
+}
+
+.main .overlap-group-3 {
+    position: relative;
+    width: 109px;
+    height: 55px;
+    background-color: #76b900;
+}
+
+.main .text-wrapper-6 {
+    position: absolute;
+    top: 18px;
+    left: 20px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main .more-options-more-to {
+    position: absolute;
+    top: 30px;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .navbar {
+    position: absolute;
+    width: 1282px;
+    height: 60px;
+    top: 25px;
+    left: 42px;
+}
+
+.main .overlap-4 {
+    position: relative;
+    width: 1280px;
+    height: 60px;
+    background-color: #000000;
+}
+
+.main .navbar-2 {
+    position: absolute;
+    width: 382px;
+    height: 22px;
+    top: 19px;
+    left: 269px;
+}
+
+.main .text-wrapper-7 {
+    left: 0;
+    position: absolute;
+    top: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .text-wrapper-8 {
+    left: 117px;
+    position: absolute;
+    top: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .text-wrapper-9 {
+    left: 217px;
+    position: absolute;
+    top: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .text-wrapper-10 {
+    left: 305px;
+    position: absolute;
+    top: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .text-wrapper-11 {
+    position: absolute;
+    top: 14px;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #fffcfc;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .input {
+    position: absolute;
+    width: 302px;
+    height: 50px;
+    top: 5px;
+    left: 974px;
+}
+
+.main .overlap-5 {
+    position: relative;
+    width: 300px;
+    height: 50px;
+    background-color: #ffffff;
+}
+
+.main .search-marketplace {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #666666;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
+.main .search {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 18px;
+    left: 278px;
+}
+
+.main .overlap-group-4 {
+    position: relative;
+    height: 14px;
+}
+
+.main .ellipse-5 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 0;
+    left: 0;
+    background-color: #fffcfc;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #666666;
+}
+
+.main .line {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 8px;
+    left: 8px;
+    object-fit: cover;
+}
